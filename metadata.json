@@ -1,0 +1,6 @@
+{
+  "name": "SafeRoute",
+  "description": "Secure VPN-based application firewall and remote access router with real-time bandwidth traffic monitor and dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
